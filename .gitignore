@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# YOLO 训练输出
+runs/
+
+# 模型权重（不上传）
+*.pt
+
+# 系统文件
+.DS_Store
+Thumbs.db
